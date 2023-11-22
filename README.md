@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning Laravel and improving my typescript skills
 - ⚡ Fun fact: I speak 4 languages and currently looking for the fifth!
 
-
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=spcbfr&theme=tokyonight" alt="mystreak"/>
 
 
 <!--
