@@ -1,12 +1,9 @@
 ### Hi there 👋
 - 😄 My name is Yusuf, but feel free to call me joe if it makes you feel better.
-- 📫 You can reach me via email (yusufbouzekri@gmail.com) or twitter @yusufbouzekri
+- 📫 You can reach me via email (`yusufbouzekri at gmail.com`) or mastodon `@spacebuffer@fosstodon.org`
 - 💬 my inbox is always open whether that is to say hello, talk about tech, or discuss potential opportunities!
 - 🌱 I’m currently learning Laravel and improving my typescript skills
 - ⚡ Fun fact: I speak 4 languages and currently looking for the fifth!
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=spcbfr&theme=tokyonight" alt="mystreak"/>
-
 
 <!--
 **spcbfr/spcbfr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
