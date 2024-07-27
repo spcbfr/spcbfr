@@ -1,10 +1,12 @@
-### Hi there 👋
-- 😄 My name is Yusuf, but feel free to call me joe if it makes you feel better.
-- 📫 You can reach me via email (`yusufbouzekri at gmail.com`) or mastodon `@spacebuffer@fosstodon.org`
-- 💬 my inbox is always open whether that is to say hello, talk about tech, or discuss potential opportunities!
-- 🌱 I’m currently learning Laravel and improving my typescript skills
-- ⚡ Fun fact: I speak 4 languages and currently looking for the fifth!
+I maintain [a blog](https://yusuf.fyi), or try to anyways..
 
+I am most productive when coding in laravel
+
+I curate my Development Environment tools carefully. long live Vim!
+
+aside from coding, i'd say 80s British Sitcoms and Science Fiction series are my go to "thing". go watch [_Blackadder_](https://en.wikipedia.org/wiki/Blackadder) if you haven't already.
+
+if you'd like to chat about tech or potential job opportunities, you could reach me on yusufbouzekri@gmail.com
 <!--
 **spcbfr/spcbfr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
